@@ -70,22 +70,27 @@
 
 ## 📌 Featured Projects
 
-### ✈️ CompareMyTours
-A travel-tour comparison platform that allows users to compare packages, vendors, prices and tour details across different providers.
-
-**Tech:** React / Next.js • Node.js • PostgreSQL • Docker • AWS
-
----
-
-### 🌍 Ishwa Holidays
+### 🌍 [Ishwa Holidays](https://ishwaholidays.com/)
 A premium travel platform for discovering destinations, holiday packages and travel experiences.
+
+🔗 [Visit Website](https://ishwaholidays.com/)
 
 **Tech:** React • Sanity CMS • JavaScript • Node
 
 ---
 
-### 🐳 The Visa Manager 
-A online Visa application platform which allows  users to apply for a Visa of 120+ countries fully online 
-**Tech:** React • Node • Firebase • 
+### 🐳 [The Visa Manager](https://www.thevisamanager.com/)
+An online Visa application platform which allows users to apply for a Visa of 120+ countries fully online.
+
+🔗 [Visit Website](https://www.thevisamanager.com/)
+
+**Tech:** React • Node • Firebase
+---
+
+### ✈️ CompareMyTours
+A travel-tour comparison platform that allows users to compare packages, vendors, prices and tour details across different providers.
+
+**Tech:** React / Next.js • Node.js • PostgreSQL • Docker • AWS
+
 
 ---
