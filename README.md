@@ -77,7 +77,7 @@ A travel-tour comparison platform that allows users to compare packages, vendors
 
 ---
 
-### 🌍 Iswa Holidays
+### 🌍 Ishwa Holidays
 A premium travel platform for discovering destinations, holiday packages and travel experiences.
 
 **Tech:** React • Sanity CMS • JavaScript • Node
