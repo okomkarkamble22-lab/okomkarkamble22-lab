@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👋 Hi, I'm Omkar Kamble
 
-<!--
-**okomkarkamble22-lab/okomkarkamble22-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Cloud & DevOps Enthusiast | MCA Student
 
-Here are some ideas to get you started:
+🎓 MCA Student  
+💻 Full Stack Web Developer with hands-on experience in Cloud & DevOps  
+☁️ Currently building and learning with AWS, Docker, Linux & CI/CD  
+🚀 Interested in building scalable, production-ready applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### 🌐 Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### ☁️ Cloud & DevOps
+- AWS
+- Linux
+- Docker
+- Docker Compose
+- Git & GitHub
+- CI/CD
+- Nginx
+- Terraform
+- Kubernetes
+
+---
+
+## 🔧 Tools
+
+- Git & GitHub
+- VS Code
+- Cursor
+- Docker
+- AWS Console
+- Linux / WSL
+- GitHub Actions
+
+---
+
+## 🚀 What I'm Currently Learning
+
+🌩️ AWS Cloud  
+🐳 Docker & Containerization  
+☸️ Kubernetes  
+🔄 CI/CD Pipelines  
+🏗️ Terraform & Infrastructure as Code  
+📊 Prometheus & Grafana  
+🐧 Linux for Cloud & DevOps  
+
+---
+
+## 📌 Featured Projects
+
+### ✈️ CompareMyTours
+A travel-tour comparison platform that allows users to compare packages, vendors, prices and tour details across different providers.
+
+**Tech:** React / Next.js • Node.js • PostgreSQL • Docker • AWS
+
+---
+
+### 🌍 Iswa Holidays
+A premium travel platform for discovering destinations, holiday packages and travel experiences.
+
+**Tech:** React • Sanity CMS • JavaScript • Node
+
+---
+
+### 🐳 The Visa Manager 
+A online Visa application platform which allows  users to apply for a Visa of 120+ countries fully online 
+**Tech:** React • Node • Firebase • 
+
+---
